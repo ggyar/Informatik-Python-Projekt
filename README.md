@@ -1,5 +1,7 @@
 # Informatik-Python-Projekt
+===========================
 ## Struktugramme
+---------------------------
 Hier sind alle für das Programm verwendeten Programme zu sehen
 ### Haubtprogramm:
 ![alt text](hauptprogramm_struktog.png)
