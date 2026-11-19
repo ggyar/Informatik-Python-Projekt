@@ -24,3 +24,8 @@ Hier sind alle für das Programm verwendeten Programme zu sehen
 [Als datei hier klicken](gib_empfehlung_struktog.json)
 
 ---------------------------
+
+## Ersteller
+
+- Nevio Suleman
+- Rafael Busse
