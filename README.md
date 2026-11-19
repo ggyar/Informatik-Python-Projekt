@@ -7,3 +7,4 @@ Hier sind alle für das Programm verwendeten Programme zu sehen
 
 ### Frage nach dem Fett:
 ![alt text](frage_fett_struktog_2026-11-19.png)
+[Als datei hier klicken](frage_fett_struktog_2026-11-19.json)
